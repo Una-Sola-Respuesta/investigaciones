@@ -1,0 +1,22 @@
+Fecha,Fecha de datos_Valor,Periodo comienza_Valor,Periodo termina_Valor,Tipos de casos considerados_Valor,Localización_Valor
+2020-12-25,2020-12-25,2020-12-10,2020-12-24,confirmados,Puerto Rico
+2021-01-01,2021-01-01,2020-11-30,2020-12-31,confirmados,Puerto Rico
+2021-01-08,2021-01-08,2020-12-07,2021-01-07,confirmados,Puerto Rico
+2021-01-15,2021-01-15,2020-12-14,2021-01-14,confirmados,Puerto Rico
+2021-01-22,2021-01-22,2020-12-21,2021-01-21,confirmados,Puerto Rico
+2021-01-29,2021-01-29,2020-12-28,2021-01-28,confirmados,Puerto Rico
+2021-02-05,2021-02-05,2021-01-04,2021-02-04,confirmados,Puerto Rico
+2021-02-12,2021-02-12,2021-01-11,2021-02-11,confirmados,Puerto Rico
+2021-02-19,2021-02-19,2021-01-18,2021-02-18,confirmados,Puerto Rico
+2021-02-26,2021-02-26,2021-01-24,2021-02-24,confirmados,Puerto Rico
+2021-03-05,2021-03-05,2021-02-03,2021-03-03,confirmados,Puerto Rico
+2021-03-12,2021-03-12,2021-02-10,2021-03-10,confirmados,Puerto Rico
+2021-03-19,2021-03-19,2021-02-17,2021-03-17,confirmados,Puerto Rico
+2021-03-26,2021-03-26,2021-02-24,2021-03-24,confirmados,Puerto Rico
+2021-04-02,2021-04-02,2021-03-03,2021-03-31,confirmados,Puerto Rico
+2021-04-09,2021-04-09,2021-03-07,2021-04-07,"confirmados, probable antígenos",Puerto Rico
+2021-04-16,2021-04-16,2021-03-14,2021-04-14,"confirmados, probable antígenos",Puerto Rico
+2021-04-23,2021-04-23,2021-03-21,2021-04-21,"confirmados, probable antígenos",Puerto Rico
+2021-04-30,2021-04-30,2021-04-01,2021-04-28,"confirmados, probable antígenos",Puerto Rico
+2021-05-07,2021-05-07,2021-04-08,2021-05-05,"confirmados, probable antígenos",Puerto Rico
+2021-05-14,2021-05-14,2021-04-15,2021-05-12,"confirmados, probable antígenos",Puerto Rico
